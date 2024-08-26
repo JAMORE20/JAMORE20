@@ -1,11 +1,12 @@
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos;Este+es+mi+repositorio+de+paquetes+en+R;espero+sea+de+gran+ayuda+para+ustedes)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;This+is+my+R+packages+repository;I+hope+it+will+be+very+useful+for+you)
 
-## Hola, soy Javier Mosquera Rentería 👋
+## Hi, I'm Javier Mosquera Rentería 👋
 
-Soy **Magíster en Ciencias-Estadística** de la Universidad Nacional de Colombia, con una Licenciatura en Matemáticas y Física. Tengo experiencia en modelos de regresión lineal, análisis estadístico de datos multivariados, series temporales y más. Soy apasionado por el análisis de datos y la estadística, y disfruto trabajando con herramientas como R, Python, SAS, y LaTeX. 
+I hold a **Master's degree in Statistical Sciences** from the National University of Colombia, with a Bachelor's degree in Mathematics and Physics. I have experience in linear regression models, multivariate statistical data analysis, time series, and more. I am passionate about data analysis and statistics, and I enjoy working with tools like R, Python, SAS, and LaTeX.
 
-Actualmente, estoy enfocado en proyectos de análisis de datos y desarrollo de modelos estadísticos. Si te interesa la estadística y el análisis de datos, ¡no dudes en explorar mis repositorios!
+Currently, I am focused on data analysis projects and the development of statistical models. If you're interested in statistics and data analysis, feel free to explore my repositories!
+
 
 🔗 [Ver mi perfil en LinkedIn](https://www.linkedin.com/in/javier-mosquera-renteria/)
 
