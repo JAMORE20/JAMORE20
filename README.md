@@ -1,5 +1,5 @@
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos;al+Repositorio+de+paquetes;en+R)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos;Este+es+mi+Repositorio+de+paquetes+en+R)
 
 ## Hola, soy Javier Mosquera Rentería 👋
 
