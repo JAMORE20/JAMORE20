@@ -1,16 +1,470 @@
-## Hi there 👋
 
-<!--
-**JAMORE20/JAMORE20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos;al+Repositorio+de+paquetes;en+R;Welcome!)
+<t ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+## Hola, soy Javier Mosquera Rentería 👋
 
-Here are some ideas to get you started:
+Soy **Magíster en Ciencias-Estadística** de la Universidad Nacional de Colombia, con una Licenciatura en Matemáticas y Física. Tengo experiencia en modelos de regresión, análisis estadístico, series temporales y más. Soy apasionado por el análisis de datos y la estadística, y disfruto trabajando con herramientas como R, Python, SAS, y LaTeX. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente, estoy enfocado en proyectos de análisis de datos y desarrollo de modelos estadísticos. Si te interesa la estadística y el análisis de datos, ¡no dudes en explorar mis repositorios!
+
+🔗 [Ver mi perfil en LinkedIn](https://www.linkedin.com/in/javier-mosquera-renteria/)
+
+<t ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<div align="center">
+  <img src="https://latex.codecogs.com/svg.latex?P(Y%20%3D%201%20%5Cmid%20X_1%2C%20X_2%2C%20%5Cldots%2C%20X_k)%20%3D%20%5Cfrac%7B1%7D%7B1%20%2B%20e%5E%7B-%28%5Cbeta_0%20%2B%20%5Cbeta_1%20X_1%20%2B%20%5Cbeta_2%20X_2%20%2B%20%5Ccdots%20%2B%20%5Cbeta_k%20X_k%29%7D" />
+  <br>
+
+  #####
+  
+  <img src="https://latex.codecogs.com/svg.latex?P(Y%20%3D%20y%20%5Cmid%20X_1%20%3D%20x_1%2C%20X_2%20%3D%20x_2%2C%20%5Cldots%2C%20X_k%20%3D%20x_k)%20%3D%20%5Cfrac%7BP(Y%20%3D%20y)%20%5Cprod_%7Bi%3D1%7D%5E%7Bk%7D%20P(X_i%20%3D%20x_i%20%5Cmid%20Y%20%3D%20y)%7D%7BP(X_1%20%3D%20x_1%2C%20X_2%20%3D%20x_2%2C%20%5Cldots%2C%20X_k%20%3D%20x_k)%7D" style="margin-top: 20px;" />
+</div>
+
+<t ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<h1 align="center">Github Metrics</h1>
+<p align="center">
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAMORE20&theme=github_dark" />
+</p>
+
+
+<t ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+[![Javier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAMORE20&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<t ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JAMORE20&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Javier Mosquera Renteria github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAMORE20&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div>
+
+
+<t ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JAMORE20&theme=tokyonight_duo&hide_border=true" alt="Javier Mosquera Renteria's streak stats" />
+</p>
+
+<t ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<div align="center">
+  <br>
+  <p align="center"><b>Visitors Count 👽 </b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/JAMORE20/count.svg" /></p> 
+  <br>
+</div>
+
+<t ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+![GitHub Followers](https://img.shields.io/github/followers/JAMORE20?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/JAMORE20?style=social)
+<t ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<t ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
