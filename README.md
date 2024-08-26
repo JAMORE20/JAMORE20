@@ -3,7 +3,7 @@
 
 ## Hi, I'm Javier Mosquera Rentería 👋
 
-I hold a **Master's degree in Statistical - Sciences** from the National University of Colombia, with a Bachelor's degree in Mathematics and Physics. I have experience in linear regression models, multivariate statistical data analysis, time series, and more. I am passionate about data analysis and statistics, and I enjoy working with tools like R, Python, SAS, and LaTeX.
+I hold a **Master's degree in Statistical Sciences** from the National University of Colombia, with a Bachelor's degree in Mathematics and Physics. I have experience in linear regression models, multivariate statistical data analysis, time series, and more. I am passionate about data analysis and statistics, and I enjoy working with tools like R, Python, SAS, and LaTeX.
 
 Currently, I am focused on data analysis projects and the development of statistical models. If you're interested in statistics and data analysis, feel free to explore my repositories!
 
