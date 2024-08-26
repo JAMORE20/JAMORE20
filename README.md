@@ -3,7 +3,7 @@
 
 ## Hola, soy Javier Mosquera Rentería 👋
 
-Soy **Magíster en Ciencias-Estadística** de la Universidad Nacional de Colombia, con una Licenciatura en Matemáticas y Física. Tengo experiencia en modelos de regresión, análisis estadístico, series temporales y más. Soy apasionado por el análisis de datos y la estadística, y disfruto trabajando con herramientas como R, Python, SAS, y LaTeX. 
+Soy **Magíster en Ciencias-Estadística** de la Universidad Nacional de Colombia, con una Licenciatura en Matemáticas y Física. Tengo experiencia en modelos de regresión lineal, análisis estadístico de datos multivariados, series temporales y más. Soy apasionado por el análisis de datos y la estadística, y disfruto trabajando con herramientas como R, Python, SAS, y LaTeX. 
 
 Actualmente, estoy enfocado en proyectos de análisis de datos y desarrollo de modelos estadísticos. Si te interesa la estadística y el análisis de datos, ¡no dudes en explorar mis repositorios!
 
